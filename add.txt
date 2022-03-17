@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 add
 edited in local
 third
@@ -5,3 +6,9 @@ local
 remote
 
 re Test
+<<<<<<< HEAD
+=======
+=======
+git test
+>>>>>>> d9de5b5 (logcal re Change)
+>>>>>>> 748181b (123)
